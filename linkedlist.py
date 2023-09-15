@@ -79,6 +79,7 @@ l.insert_at_beginning(5) # accessing methods of class LinkedList and adding elem
 l.insert_at_beginning(23)
 l.insert_at_beginning(46)
 l.insert_at_end(24)
+l.insert_at_beginning(203)
 l.insert_values(["ch","sk"])
 l.remove_at_index(1)
 l.remove_at_index(20)
